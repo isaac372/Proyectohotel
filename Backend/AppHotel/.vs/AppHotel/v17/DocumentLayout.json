@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\source\\repos\\AppHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|c:\\users\\isaac\\source\\repos\\apphotel\\apphotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|c:\\users\\isaac\\source\\repos\\apphotel\\apphotel\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|c:\\users\\isaac\\source\\repos\\apphotel\\apphotel\\models\\hotelportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\models\\hotelportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|c:\\users\\isaac\\source\\repos\\apphotel\\apphotel\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|c:\\users\\isaac\\source\\repos\\apphotel\\apphotel\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|c:\\users\\isaac\\source\\repos\\apphotel\\apphotel\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|c:\\users\\isaac\\source\\repos\\apphotel\\apphotel\\controllers\\tipohabitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A331BDB-D72B-4CA1-8054-11D6ED221FB3}|AppHotel\\AppHotel.csproj|solutionrelative:apphotel\\controllers\\tipohabitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Program.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Program.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Program.cs",
+              "RelativeToolTip": "AppHotel\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T17:27:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelPortalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Models\\HotelPortalDbContext.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Models\\HotelPortalDbContext.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Models\\HotelPortalDbContext.cs",
+              "RelativeToolTip": "AppHotel\\Models\\HotelPortalDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:47:03.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AppHotel\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:35:29.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Models\\Reserva.cs",
+              "RelativeToolTip": "AppHotel\\Models\\Reserva.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:04:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoHabitacionController.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\TipoHabitacionController.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Controllers\\TipoHabitacionController.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\TipoHabitacionController.cs",
+              "RelativeToolTip": "AppHotel\\Controllers\\TipoHabitacionController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:02:24.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "AppHotel\\Controllers\\ReservaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:02:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "AppHotel\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\isaac\\source\\repos\\AppHotel\\AppHotel\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "AppHotel\\Controllers\\HotelsController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T05:26:35.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
