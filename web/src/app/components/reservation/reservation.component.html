@@ -1,0 +1,25 @@
+<div >
+  <div class ="container">
+      <div class="row">
+          <div class="col-sm-12 col-md-6 pTop50">
+            <mat-form-field>
+              <mat-label>Fecha Inicio</mat-label>
+              <input matInput [matDatepicker]="date" formControlName="date">
+              <mat-datepicker-toggle matSuffix [for]="date"></mat-datepicker-toggle>
+              <mat-datepicker #date></mat-datepicker>
+            </mat-form-field>
+            <mat-form-field>
+              <mat-label>Fecha Fin </mat-label>
+              <input matInput [matDatepicker]="date" formControlName="date">
+              <mat-datepicker-toggle matSuffix [for]="date"></mat-datepicker-toggle>
+              <mat-datepicker #date></mat-datepicker>
+            </mat-form-field>
+          </div>
+          <div class="col-sm-12 col-md-6 pTop50">
+              <mat-card>
+                  <!-- <app-booking-form [restaurant]="restaurant"></app-booking-form> -->
+              </mat-card>
+          </div>
+      </div>
+  </div>
+  </div>
